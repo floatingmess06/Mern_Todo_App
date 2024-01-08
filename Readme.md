@@ -66,8 +66,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A sleek and intuitive task management system designed to streamline your daily activities. Built on the powerful MERN (MongoDB, Express.js, React, Node.js) stack, this application seamlessly integrates user registration and login functionalities to provide a personalized and secure experience.
 
 Key Features:
@@ -193,7 +191,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Author: [https://github.com/floatingmess06/](floatingmess06)
 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/floatingmess06/Mern_Todo_App](https://github.com/floatingmess06/Mern_Todo_App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
